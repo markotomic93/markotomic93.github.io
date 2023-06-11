@@ -1,0 +1,58 @@
+let frontend = `
+  [ {   "name": "Newspaper",
+        "technology": "Bootstrap HTML SCSS JavaScript",
+        "description": "Getting familiar with the DOM HTML and CSS",
+        "image": "img/portfolio-2.jpg",
+        "git": "img/github-icon.png",
+        "gitLink": "https://github.com/markotomic93/FE-Code-Review-2-Marko"
+    },{
+        "name": "Restaurant",
+        "technology": "HTML SCSS",
+        "description": "Using Bootstrapand SCSS, first JavaScript steps and getting familiar with the console",
+        "image": "img/portfolio-3.jpg",
+        "link": "Team/index.html",
+        "git": "img/github-icon.png",
+        "gitLink": "https://github.com/markotomic93/FE21-CR3-Marko"
+    },{
+        "name": "Movie Site",
+        "technology": "Angular Bootstrap HTML CSS TypeScript",
+        "description": "Generating a site dynamically from a .json file via javascript and using a sort function",
+        "image": "img/portfolio-4.jpg",
+        "git": "img/github-icon.png",
+        "gitLink": "https://github.com/markotomic93/FE21-CR4-Marko"
+    },{
+        "name": "Travel-o-Matic",
+        "technology": "Bootstrap HTML SCSS TypeScript",
+        "description": "Creating a blog that utilizes dynamic page generation using classes and objects",
+        "image": "img/portfolio-5.jpg",
+        "git": "img/github-icon.png",
+        "gitLink": "https://github.com/markotomic93/FE21-CR5-Marko"
+    },{
+        "name": "Travel Agency",
+        "technology": "Bootstrap HTML SCSS TypeScript Json",
+        "description": "Creating a travel page using interactive cart functionality",
+        "image": "img/portfolio-6.jpg",
+        "git": "img/github-icon.png",
+        "gitLink": "https://github.com/markotomic93/FE21-CR6-Marko"
+    },{    
+        "name": "Big Library",
+        "technology": "Bootstrap MySQL PHP & CRUD",
+        "description": "Creating Libray site that lets you check ot and manage Books",
+        "image": "img/portfolio-10.jpg",
+        "git": "img/github-icon.png",
+        "gitLink": "https://github.com/markotomic93/FE21-CR10-Marko"
+    },{
+        "name": "Pet Adoption ",
+        "technology": "HTML SCSS",
+        "description": "Creating Site where you can Adopt Pets and using Admin access for Usermanagement ",
+        "image": "img/portfolio-11.jpg",
+        "git": "img/github-icon.png",
+        "gitLink" : "https://github.com/markotomic93/FE21-CR11-Marko"
+    },{ 
+        "name": "Photo Agency Team Project",
+        "technology": "Angular Bootstrap HTML SCSS TypeScript",
+        "description": "Team of 4 we used: Trello Bord in Kanban style and Mindmap to organize our work, daily Zoom Meetings kept us up to date. ",
+        "image": "img/frontend-project.png",
+        "git": "img/github-icon.png",
+        "gitLink": "https://github.com/markotomic93/Teamproject"
+    } ] `
